@@ -12,7 +12,7 @@
       $notel = $_POST['notel'];
       $alamat = $_POST['alamat'];
       $jabatan = $_POST['jabatan'];
-      $peranan = $_POST['peranan'];
+      // $peranan = $_POST['peranan'];
       // $tahapakses = $_POST['tahapakses'];
       
       $sql = "INSERT INTO tbl_daftar (id_pegawai, username, password, nama, emel, notel, alamat, jabatan, peranan) VALUES ('{$id_pegawai}','{$username}','{$password}','{$nama}','{$emel}','{$notel}','{$alamat}','{$jabatan}','{$peranan}')";
