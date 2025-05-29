@@ -33,7 +33,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <!-- Container wrapper -->
         <div class="container">
-        <!-- Navbar brand -->
+        
             <a class="navbar-brand me-2" href="">
                 <img src="img/logoilpselandar.png" height="50" alt="Sistem Pelepasan Tugas" loading="lazy" style="margin-top: 5px;"/>
             </a>
