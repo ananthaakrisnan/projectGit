@@ -166,8 +166,7 @@
             </select>
         </div>
     </div>
-
-    
+    <!-- example br -->
     <!--button-->
     <div class="form-group">        
       <div class="col-sm-offset-2 col-sm-10" id="button">
